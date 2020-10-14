@@ -4,6 +4,8 @@ namespace Vending.Interfaces
     {
         double Price { get; }
 
+        string Name { get; set; }
+
         double CalculateCost();
     }
 }
