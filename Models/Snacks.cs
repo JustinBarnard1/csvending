@@ -6,7 +6,6 @@ namespace Vending.Models
     {
         public double Price { get; set; }
         public string Name { get; set; }
-        public string SKU { get; set; }
 
 
         public double CalculateCost()
@@ -14,11 +13,10 @@ namespace Vending.Models
             return Price;
         }
 
-        public Snack(double price, string name, string sku)
+        public Snack(double price, string name)
         {
             Price = price;
             Name = name;
-            SKU = sku;
         }
     }
 }
