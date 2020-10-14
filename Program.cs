@@ -8,7 +8,7 @@ namespace Vending
         static void Main(string[] args)
         {
             Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Clear();
 
             new VendingController().Run();

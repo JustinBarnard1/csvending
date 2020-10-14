@@ -4,6 +4,11 @@ namespace Vending.Models
 {
     class Snack : IPurchaseable
     {
+        public Snack(double price, string name)
+        {
+            Price = price;
+            Name = name;
+        }
         public double Price { get; set; }
         public string Name { get; set; }
 
@@ -11,12 +16,6 @@ namespace Vending.Models
         public double CalculateCost()
         {
             return Price;
-        }
-
-        public Snack(double price, string name)
-        {
-            Price = price;
-            Name = name;
         }
     }
 }

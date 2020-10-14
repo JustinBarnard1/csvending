@@ -1,0 +1,13 @@
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.exe
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.deps.json
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.runtimeconfig.json
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.runtimeconfig.dev.json
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.dll
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\bin\Debug\netcoreapp3.1\csvending.pdb
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.csprojAssemblyReference.cache
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.AssemblyInfoInputs.cache
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.AssemblyInfo.cs
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.csproj.CoreCompileInputs.cache
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.dll
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.pdb
+C:\source\codeworks\fall2020\week9\csharpday3\csvending\obj\Debug\netcoreapp3.1\csvending.genruntimeconfig.cache
